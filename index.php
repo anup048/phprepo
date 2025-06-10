@@ -1,3 +1,3 @@
 <?php
-echo "This is PHP-powered website!"
+echo "This is PHP-powered website using CICD!"
 ?>
